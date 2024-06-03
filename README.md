@@ -1,4 +1,4 @@
-# What To Play: Community
+# What To Play: Games dataset
 A dataset with games found by the community!
 
 ## how to add a game?
